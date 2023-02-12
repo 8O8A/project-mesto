@@ -1,0 +1,11 @@
+.gallery {
+    position: relative;
+    margin: 51px auto 0;
+    max-width: 880px;
+}
+
+@media screen and (max-width: 767px) {
+    .gallery {
+        margin-top: 36px;
+    }
+}

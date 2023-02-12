@@ -1,0 +1,13 @@
+.popup__span-error {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 125%;
+    position: absolute;
+    top: calc(100% + 2px);
+    left: 0;
+    transition: 0.3s;
+    color: #FF0000;
+    visibility: hidden;
+}

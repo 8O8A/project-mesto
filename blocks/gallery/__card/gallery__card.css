@@ -1,0 +1,6 @@
+.gallery__card {
+    position: relative;
+    background-color: var(--background-color-elements);
+    border-radius: 10px;
+    overflow: hidden;
+}
