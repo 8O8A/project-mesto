@@ -128,7 +128,6 @@ function profileFormSubmit(event) {
   event.preventDefault();
   profileName.textContent = nameInput.value;
   profileAbout.textContent = aboutInput.value;
-  errorField.classList.remove('popup__span-error_active');
   closePopup(popupProfile);
 };
 
