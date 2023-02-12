@@ -17,4 +17,4 @@ ___
 
 
 **Проект на GitHub**
-* [Ссылка на проект](https://8o8a.github.io/mesto/)
+* [Ссылка на проект](https://8o8a.github.io/project-mesto/)
